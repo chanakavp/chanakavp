@@ -13,7 +13,9 @@ In order to allow third-party flight following systems to update flights in Mobi
 3. Enter the following information:
 
     a. **Identity**: FLIGHT_API
+
     b. **Description**: Enter a description. E.g., Flight API user
+
     c. **User Type**: Service User
 
 4. Leave other fields unchanged.
@@ -33,9 +35,13 @@ In order to allow third-party flight following systems to update flights in Mobi
 3. Enter the following information:
 
     a. **Client ID:** *MM_FLIGHT_API*
+
     b. **Description:** Enter a description. E.g., Flight API User
+
     c. **Service Accounts**: Yes
+
     d. **Direct Access Grant**: Yes
+
     e. **Username**: FLIGHT_API (the user created in the previous procedure)
 
 4. Click **OK**.
